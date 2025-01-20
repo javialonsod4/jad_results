@@ -1,5 +1,6 @@
 import pandas as pd
 import mysql.connector
+import boto3
 
 # Conectar a la base de datos RDS
 mydb = mysql.connector.connect(
