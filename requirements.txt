@@ -1,5 +1,4 @@
 boto3==1.36.2
-matplotlib==3.10.0
 mysql==0.0.3
 mysql-connector-python==9.1.0
 numpy==2.2.2
